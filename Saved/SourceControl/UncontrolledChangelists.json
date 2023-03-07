@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Engine Project/Testovoe/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Unreal Engine Project/Testovoe/Content/Task01/Sphere_Material.uasset",
+				"D:/Unreal Engine Project/Testovoe/Content/Task01/BP_Sphere.uasset",
+				"D:/Unreal Engine Project/Testovoe/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal Engine Project/Testovoe/Content/Task01/Task01_Level.umap",
+				"D:/Unreal Engine Project/Testovoe/Content/Task02/Task02_Level.umap",
+				"D:/Unreal Engine Project/Testovoe/Content/Task02/Task03_Level.umap",
+				"D:/Unreal Engine Project/Testovoe/Content/Task02/BP_RopeSphere.uasset",
+				"D:/Unreal Engine Project/Testovoe/Content/Task03/Task03_Level.umap",
+				"D:/Unreal Engine Project/Testovoe/Content/Task03/BP_TestEffect.uasset",
+				"D:/Unreal Engine Project/Testovoe/Content/Task03/BP_EventManager.uasset",
+				"D:/Unreal Engine Project/Testovoe/Content/Task03/BP_EvenstManager.uasset",
+				"D:/Unreal Engine Project/Testovoe/Content/Task01/Task01.umap",
+				"D:/Unreal Engine Project/Testovoe/Content/Task01/Task02.umap",
+				"D:/Unreal Engine Project/Testovoe/Content/Task02/Task02.umap",
+				"D:/Unreal Engine Project/Testovoe/Content/Task02/Task03.umap"
+			]
+		}
+	]
+}
